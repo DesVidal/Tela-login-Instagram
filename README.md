@@ -2,7 +2,7 @@
 
 #### Bem-vindo à recriação da interface de login do instagram. ####
 
-Esse projeto faz parte do conteúdo do curso de **HTML Web Developer **, da DIO (_Digital Innovation One_). :computer:
+Esse projeto faz parte do conteúdo do curso de HTML Web Developer, da DIO (_Digital Innovation One_). :computer:
 
 ##### As tecnologias utilizadas foram:
 
